@@ -4,4 +4,4 @@ Creating a new branch is quick. 123
 add dev branch
 add dev2 branch
 delete issue-101
-renyan add
+renyan add and lihuan add

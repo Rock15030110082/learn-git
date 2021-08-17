@@ -2,3 +2,4 @@ hello master-aBranch-bBranch branch!
 Creating a new branch is quick. 123
 123456Creating a new branch is quick AND simple. 456
 add dev branch
+add dev2 branch
